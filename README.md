@@ -1,4 +1,4 @@
-# My-projects
+# Мои проекты
 Data analyst course projects
 
 
