@@ -1,6 +1,6 @@
 # Projects of the "Data analyst" course
 
-These projects had been completed during professional education at Practicum:
+These projects has been completed during professional education at Practicum:
 
 
 | Title       | Description  | Libraries            |
