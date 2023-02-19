@@ -1,5 +1,3 @@
-**Описание проекта**
+**Project description**
 
-В нашем распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.
-Наша задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
-О каждой квартире в базе содержится два типа данных: добавленные пользователем и картографические. Например, к первому типу относятся площадь квартиры, её этаж и количество балконов, ко второму — расстояния до центра города, аэропорта и ближайшего парка. 
+An archive of real estate ads of several years in Saint-Petersburg and surrounding towns is available. Our goal - to perform data preprocessing and explore it to detect features and relations on the market. There are two types of data for each apartment: added by users (e.g. square, floor, amount of balconies) and cartographic (e.g. distance from the city centre, the airport and the nearest park).
