@@ -1,4 +1,4 @@
-**Описание проекта**
+**Project description**
 
-Мы работаем в интернет-магазине, который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
-Перед нами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и мы планируем кампанию на 2017-й. Нужно отработать принцип работы с данными.
+We operate as an online-store that sells videogames worlwide. We've retrieved retrospective videogames data related to sales, users and critic scores, genres, platforms.
+Our goal is to detect patterns that determine success of a videogame. Thus we'll be able to define a potentially popular product and to plan effective marketing campaign for next year. We should work out the principles of data handling and analysis.
