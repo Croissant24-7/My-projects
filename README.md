@@ -1,4 +1,4 @@
-# Projects of the "Data analyst" course
+# Projects of the "Data analyst" course (Practicum)
 
 These projects has been completed during professional education at Practicum:
 
