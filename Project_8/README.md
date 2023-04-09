@@ -3,10 +3,8 @@
 We work with a startup, which sells grocery. We should inspect app users behaviour.
 Our task is to:
 - explore a sales funnel;
-- 
+- figure out, how users proceed to purchase;
+- detect, how many users proceed to purchase and how many stuck on previous steps.
 
-узнать, как пользователи доходят до покупки;
-определить, сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах.
-После этого исследуем результаты A/A/B-эксперимента. Дизайнеры захотели поменять шрифты во всём приложении, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. Пользователей разбили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми.
-
-Выясним, какой шрифт лучше.
+After that we should analyze the A/A/B-experiment results - users were divided into 3 groups: 2 control groups with old font and 1 experimental - with new one.
+Let's find out, which font is better.
