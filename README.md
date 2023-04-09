@@ -1,4 +1,4 @@
-# Projects of the "Data analyst" course (Practicum)
+# Projects of the "Data analyst" course (Yandex Practicum)
 
 These projects has been completed during professional education at Practicum:
 
@@ -12,4 +12,4 @@ These projects has been completed during professional education at Practicum:
 | [Big cities music](https://github.com/Croissant24-7/My-projects/blob/main/Project_5/big_cities_music_edited.ipynb/ "Project № 5") |Music streaming service data is at our disposal. Our goal is to test several hypothesis and to compare behaviour of users from Moscow and Saint-Petersburg (activity, tastes).| pandas
 | [Marketing campaign](https://github.com/Croissant24-7/My-projects/blob/main/Project_6/marketing_campaign_edited.ipynb/ "Project № 6") |As a marketing analyst who works for the entertainment app Procrastinate Pro+ we should reveal the reasons of its unprofitability and prepare measured recommendations in order to improve the company's financial performance.| pandas, matplotlib, numpy, datetime, seaborn
 | [A/B-test](https://github.com/Croissant24-7/My-projects/blob/main/Project_7/AB_test_edited.ipynb/ "Project № 7") |As a large e-shop analysts we've prepared a list of hypotheses for revenue increase. Our task is to prioritize hypotheses, to launch an A/B-test and to analyze results.| pandas, matplotlib, numpy, datetime, math, scipy
-| [Mobile application](https://github.com/Croissant24-7/My-projects/blob/main/Project_8/Mobile_app_edited.ipynb/ "Project № 8") |As a large e-shop analysts we've prepared a list of hypotheses for revenue increase. Our task is to prioritize hypotheses, to launch an A/B-test and to analyze results.| pandas, matplotlib, numpy, datetime, math, scipy, plotly, statsmodels.stats.proportion
+| [Mobile application](https://github.com/Croissant24-7/My-projects/blob/main/Project_8/Mobile_app_edited.ipynb/ "Project № 8") |We should inspect app users behaviour. Our task is to: explore a sales funnel; figure out, how users proceed to purchase; detect, how many users proceed to purchase and how many stuck on previous steps. After that we should analyze the A/A/B-experiment results.| pandas, matplotlib, numpy, datetime, math, scipy, plotly, statsmodels.stats.proportion
